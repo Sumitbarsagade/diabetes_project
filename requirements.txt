@@ -1,7 +1,7 @@
 fastapi==0.85.0
 uvicorn==0.18.3
 pydantic
-json
+simplejson
 requests== 2.25.1
 numpy>=1.9.2
 scipy>=0.15.1
