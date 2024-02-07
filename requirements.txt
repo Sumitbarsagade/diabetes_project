@@ -4,5 +4,4 @@ pydantic
 requests
 scikit_learn
 gunicorn
-pickle5
 pypi-json
