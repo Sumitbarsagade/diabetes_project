@@ -3,10 +3,7 @@ uvicorn==0.18.3
 pydantic
 simplejson
 requests== 2.25.1
-scipy==0.15.1
 matplotlib==1.4.3
-pandas==0.19
-nltk==3.4.5
 pandas==1.0.3
 Flask==1.1.1
 numpy==1.18.1
