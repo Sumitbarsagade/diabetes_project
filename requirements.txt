@@ -1,9 +1,8 @@
 fastapi==0.85.0
 uvicorn==0.18.3
 pydantic
-simplejson
 requests== 2.25.1
 scikit_learn==0.22.1
 gunicorn==20.0.4
-pickle
-
+pickle5
+pypi-json
