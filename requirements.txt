@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+json
+pickle
+scikit-learn
+requests
+gunicorn
+requests
+lxml
