@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jun 11 18:50:57 2022
+
+@author: siddhardhan
+"""
 
 from fastapi import FastAPI
 from pydantic import BaseModel
@@ -45,3 +51,8 @@ def diabetes_pred(input_parameters : model_input):
         return 'The person is not diabetic'
     else:
         return 'The person is diabetic'
+    
+    
+
+
+
