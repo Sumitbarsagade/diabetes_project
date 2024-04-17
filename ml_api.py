@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 11 18:50:57 2022
 
-@author: siddhardhan
-"""
 
 from fastapi import FastAPI
 from pydantic import BaseModel
